@@ -16,6 +16,7 @@ http://rss-second-task-2.s3-website-us-east-1.amazonaws.com/
 5 - Serverless-finch and serverless-single-page-app plugins are added and configured. The app can be built and deployed by running npm script command. (Link to CloudFront website is provided. PR with all changes is submitted in the YOUR OWN frontend repository and its link is provided for review.)
   
 https://dn1lo9qz00fhs.cloudfront.net/
+  
 https://dg9tlmwkv0zo4.cloudfront.net/
 _________________________
 
